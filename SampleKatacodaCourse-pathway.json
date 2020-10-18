@@ -1,0 +1,11 @@
+{
+  "title": "はじめてのコース作成",
+  "description": "サンプルコース",
+  "courses": [
+    {
+      "course_id": "scenario1",
+      "title": "サンプルシナリオ１",
+      "description": "サンプルのシナリオ"
+    }
+  ]
+}
