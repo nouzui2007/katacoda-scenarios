@@ -6,6 +6,11 @@
       "course_id": "scenario1",
       "title": "サンプルシナリオ１",
       "description": "サンプルのシナリオ"
+    },
+    {
+      "course_id": "demo-scenario",
+      "title": "Demo Scenario",
+      "description": "A Sample Scenario"
     }
   ]
 }
