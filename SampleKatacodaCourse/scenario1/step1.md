@@ -1,12 +1,8 @@
-Step1
+## Step1
 
 ドッカーを動かしてみる。
 
-```bash
-docker run -d --name=db redis:alpine
-```
-
-Install the CLI with the command `npm i katacoda-cli --global`{{execute}}.
+`docker run -d --name=db redis:alpine`{{execute}}
 
 The commands follow the syntax is
 `$ katacoda COMMAND`
