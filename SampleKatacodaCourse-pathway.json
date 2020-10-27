@@ -11,6 +11,11 @@
       "course_id": "demo-scenario",
       "title": "Demo Scenario",
       "description": "A Sample Scenario"
+    },
+    {
+      "course_id": "dashboard-tabs-iframe",
+      "title": "Dashboard and Terminal Tabs (iframe)",
+      "description": "Add Additional Tabs to the UI with iframe integration"
     }
   ]
 }
