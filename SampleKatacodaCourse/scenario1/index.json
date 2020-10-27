@@ -36,11 +36,8 @@
   "environment": {
     "terminals": [
       {
-        "name": "Terminal 2"
-      },
-      {
-        "name": "Docker Stats",
-        "command": "docker stats"
+        "name": "Terminal 2",
+        "target": "host02"
       }
     ],
     "uilayout": "terminal"
