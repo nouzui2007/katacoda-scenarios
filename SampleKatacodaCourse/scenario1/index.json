@@ -40,12 +40,6 @@
         "port": 80
       }
     ],
-    "terminals": [
-      {
-        "name": "Terminal 2",
-        "target": "host02"
-      }
-    ],
     "uilayout": "terminal-iframe-split"
   },
   "backend": {
