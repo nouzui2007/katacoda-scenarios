@@ -40,7 +40,7 @@
         "target": "host02"
       }
     ],
-    "uilayout": "terminal-split"
+    "uilayout": "terminal-iframe-split"
   },
   "backend": {
     "imageid": "ubuntu1904"
