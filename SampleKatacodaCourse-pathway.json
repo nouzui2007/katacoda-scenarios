@@ -16,6 +16,11 @@
       "course_id": "dashboard-tabs-iframe",
       "title": "Dashboard and Terminal Tabs (iframe)",
       "description": "Add Additional Tabs to the UI with iframe integration"
+    },
+    {
+      "course_id": "docker-http",
+      "title": "Dockerでウェブサーバを起動する",
+      "description": "Dockerでウェブサーバを起動する"
     }
   ]
 }

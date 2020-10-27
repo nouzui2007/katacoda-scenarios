@@ -1,0 +1,33 @@
+{
+  "title": "Dockerでウェブサーバを起動する",
+  "description": "Dockerでウェブサーバを起動する",
+  "difficulty": "Beginner",
+  "time": "5m",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "dashboards": [
+      {
+        "name": "Port 80",
+        "port": 80
+      }
+    ],
+    "uilayout": "terminal-iframe-split"
+  },
+  "backend": {
+    "imageid": "ubuntu",
+    "port": "80"
+  }
+}
