@@ -1,0 +1,26 @@
+{
+  "title": "VS CodeエディターとTerminalを分割表示する",
+  "description": "VS CodeエディターとTerminalを分割表示するサンプル",
+  "difficulty": "Beginner",
+  "time": "5m",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode-terminal-split"
+  },
+  "backend": {
+    "imageid": "ubuntu1904"
+  }
+}

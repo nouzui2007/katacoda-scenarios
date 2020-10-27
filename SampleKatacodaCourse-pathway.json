@@ -26,6 +26,11 @@
       "course_id": "splited-terminal",
       "title": "ターミナルを上下分割",
       "description": "ターミナルを上下に分割して表示するサンプル"
+    },
+    {
+      "course_id": "vscode-terminal",
+      "title": "VS CodeエディターとTerminalを分割表示する",
+      "description": "VS CodeエディターとTerminalを分割表示するサンプル"
     }
   ]
 }
