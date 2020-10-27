@@ -34,6 +34,17 @@
     }
   },
   "environment": {
+    "terminals": [
+      {
+        "name": "Terminal 2",
+        "target": "host01"
+      },
+      {
+        "name": "Docker Stats",
+        "command": "docker stats",
+        "target": "host01"
+      }
+    ],
     "uilayout": "terminal"
   },
   "backend": {
