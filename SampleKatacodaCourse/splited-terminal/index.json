@@ -1,0 +1,26 @@
+{
+  "title": "ターミナルを上下分割",
+  "description": "ターミナルを上下に分割して表示するサンプル",
+  "difficulty": "Beginner",
+  "time": "5m",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal-terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

@@ -21,6 +21,11 @@
       "course_id": "docker-http",
       "title": "Dockerでウェブサーバを起動する",
       "description": "Dockerでウェブサーバを起動する"
+    },
+    {
+      "course_id": "splited-terminal",
+      "title": "ターミナルを上下分割",
+      "description": "ターミナルを上下に分割して表示するサンプル"
     }
   ]
 }
