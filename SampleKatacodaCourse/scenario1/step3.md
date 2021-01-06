@@ -1,3 +1,3 @@
 https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
 
-`[[HOST_IP]]`{{execute}}
+`[[HOST_IP]]`{{copy}}
